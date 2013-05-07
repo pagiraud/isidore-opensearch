@@ -1,0 +1,131 @@
+body {
+	width:95%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.collec:first-of-type {
+	margin-top:80px;
+}
+.ancre{
+	display:block;
+	position:relative;
+	top:-80px;
+}
+.collec {
+	font-family:sans-serif;
+	clear:both;
+}
+h1 {
+	font-size:medium;
+}
+/*h1:after{
+	content:"\0000a0:\0000a0";
+}*/
+.collec ul {
+	padding-left:0;
+}
+.collec ul li{
+	/*display:block;*/
+	list-style-type:none;
+}
+.description {
+	width:72%;
+	float:left;
+	text-align:justify;
+	min-height:100px;
+	margin-bottom:50px;
+}
+.lien_os, .logo{
+	width:25%;
+	float:right;
+}
+.logo {
+	margin-top: 30px;
+	height:100px;
+	line-height:100px;
+	text-align:center;
+	margin-bottom:50px;
+	vertical-align:middle;
+}
+
+.logo img{
+	max-width:100%;
+	max-height:100%;
+	vertical-align: middle;
+}
+/*Pied de page*/
+#pied-de-page{
+	font-family:sans-serif;
+}
+#copyright{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:33%;
+}
+#w3c, #github{
+	font-size:small;
+}
+#w3c{
+	float:left;
+}
+#github{
+	float:right;
+}
+/*Barre de navigation*/
+#nav {
+	position: fixed;
+	top:0px;
+	left:0px;
+	margin-left: auto;
+	margin-right: auto;
+	width:100%;
+	background:white;
+}
+#nav ul {
+	list-style:none;
+	text-align:center;
+	border-top:1px solid #111;
+	border-bottom:1px solid #111;
+	padding:10px 0;
+	margin-bottom:0;
+}
+#nav ul li {
+	display:inline;
+	/*text-transform:uppercase;*/
+	padding:0 15px;
+	/*letter-spacing:10px;*/
+	text-align:center;
+}
+#nav ul li a {
+	display:inline-block;
+	text-decoration:none;
+	color:#111;
+	padding:3px 0;
+	min-width:10px;
+}
+#nav ul li a:hover {
+	background-image:url('bullet.png'), url('bullet2.png');
+	background-position: center bottom, center top;
+	background-repeat: no-repeat;
+	background-size:7px 5px;
+}
+/*Barre horizontale de séparation*/
+hr {
+	clear:both;
+	margin:50px 0;
+	padding: 0;
+	border: none;
+	border-top: medium double #333;
+	color: #333;
+	text-align: center;
+}
+hr:after {
+	content: "§";
+	display: inline-block;
+	position: relative;
+	top: -0.7em;
+	font-size: 1.5em;
+	padding: 0 0.25em;
+	background: white;
+}
