@@ -82,6 +82,10 @@ for resultat in root[1]:
 		description = "Aucune description disponible."
 	else:
 		description = description.replace('&','&amp;')
+#Code temporaire, tant que le bug de Virtuoso n'est pas résolu sur Isidore.
+	titre = titre.encode('latin-1').decode('utf_8')
+	description = description.encode('latin-1').decode('utf_8')
+#Fin du code temporaire
 	adresse = resultat[3][0].text
 	logo = resultat[4][0].text
 	os_shortname = titre[0:16] + "via ISIDORE"
