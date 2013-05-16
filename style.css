@@ -3,8 +3,20 @@ body {
 	margin-left:auto;
 	margin-right:auto;
 }
-.collec:first-of-type {
+#disclaimer{
+	font-family:sans-serif;
 	margin-top:80px;
+	text-align:justify;
+	background-color:gainsboro;
+	padding:0 2%;
+	border: 1px black solid;
+	margin-bottom:30px;
+}
+#cacher{
+	text-align:right;
+}
+.collec:first-of-type {
+	margin-top:110px;
 }
 .ancre{
 	display:block;
