@@ -70,7 +70,7 @@ xml.close()
 import xml.etree.ElementTree as ET
 tree = ET.parse('collections.xml')
 root = tree.getroot()
-header = codecs.open('header.html').read()
+header = codecs.open('header.html', 'r', 'utf-8').read()
 html = codecs.open('index.html','w+', 'utf-8')
 print>>html,header
 index = []
