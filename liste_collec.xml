@@ -1,0 +1,312 @@
+<rdf:RDF xmlns:res="http://www.w3.org/2005/sparql-results#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:nodeID="rset">
+<rdf:type rdf:resource="http://www.w3.org/2005/sparql-results#ResultSet" />
+    <res:resultVariable>s</res:resultVariable>
+    <res:solution rdf:nodeID="r0">
+      <res:binding rdf:nodeID="r0c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.x254h7"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r1">
+      <res:binding rdf:nodeID="r1c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.jjkg01"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r2">
+      <res:binding rdf:nodeID="r2c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.0ardxl"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r3">
+      <res:binding rdf:nodeID="r3c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.akfefo"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r4">
+      <res:binding rdf:nodeID="r4c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.0hzkam"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r5">
+      <res:binding rdf:nodeID="r5c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.fmfcx8"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r6">
+      <res:binding rdf:nodeID="r6c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.szxq6s"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r7">
+      <res:binding rdf:nodeID="r7c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.wnt2uz"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r8">
+      <res:binding rdf:nodeID="r8c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.waaksn"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r9">
+      <res:binding rdf:nodeID="r9c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.1g5thk"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r10">
+      <res:binding rdf:nodeID="r10c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.ppgidd"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r11">
+      <res:binding rdf:nodeID="r11c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.5o3050"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r12">
+      <res:binding rdf:nodeID="r12c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.asd832"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r13">
+      <res:binding rdf:nodeID="r13c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.ji0kr6"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r14">
+      <res:binding rdf:nodeID="r14c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.uft43y"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r15">
+      <res:binding rdf:nodeID="r15c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.05a9vy"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r16">
+      <res:binding rdf:nodeID="r16c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.qwbc0f"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r17">
+      <res:binding rdf:nodeID="r17c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.gsj8is"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r18">
+      <res:binding rdf:nodeID="r18c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.ue231r"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r19">
+      <res:binding rdf:nodeID="r19c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.doxv3u"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r20">
+      <res:binding rdf:nodeID="r20c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.x5tjuy"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r21">
+      <res:binding rdf:nodeID="r21c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.0jhvn2"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r22">
+      <res:binding rdf:nodeID="r22c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.xut8e9"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r23">
+      <res:binding rdf:nodeID="r23c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.il9wnp"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r24">
+      <res:binding rdf:nodeID="r24c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.quhame"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r25">
+      <res:binding rdf:nodeID="r25c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.sd35pu"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r26">
+      <res:binding rdf:nodeID="r26c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.3royzo"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r27">
+      <res:binding rdf:nodeID="r27c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.uiv8z3"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r28">
+      <res:binding rdf:nodeID="r28c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.rbcb11"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r29">
+      <res:binding rdf:nodeID="r29c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.38sazq"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r30">
+      <res:binding rdf:nodeID="r30c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.jzo9wl"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r31">
+      <res:binding rdf:nodeID="r31c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.3ep4kp"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r32">
+      <res:binding rdf:nodeID="r32c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.f4pod0"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r33">
+      <res:binding rdf:nodeID="r33c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.ov29xb"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r34">
+      <res:binding rdf:nodeID="r34c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.pwofj8"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r35">
+      <res:binding rdf:nodeID="r35c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.sbt3ra"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r36">
+      <res:binding rdf:nodeID="r36c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.zwdu7x"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r37">
+      <res:binding rdf:nodeID="r37c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.hifmxr"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r38">
+      <res:binding rdf:nodeID="r38c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.fe16k2"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r39">
+      <res:binding rdf:nodeID="r39c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.v11c4f"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r40">
+      <res:binding rdf:nodeID="r40c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.4sjjfq"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r41">
+      <res:binding rdf:nodeID="r41c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.oree80"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r42">
+      <res:binding rdf:nodeID="r42c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.y9hk2x"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r43">
+      <res:binding rdf:nodeID="r43c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.b28rd3"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r44">
+      <res:binding rdf:nodeID="r44c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.c6kefw"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r45">
+      <res:binding rdf:nodeID="r45c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.you20g"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r46">
+      <res:binding rdf:nodeID="r46c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.z6vjjb"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r47">
+      <res:binding rdf:nodeID="r47c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.5hpq3o"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r48">
+      <res:binding rdf:nodeID="r48c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.x2dz1g"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r49">
+      <res:binding rdf:nodeID="r49c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.t43gyd"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r50">
+      <res:binding rdf:nodeID="r50c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.mq7wsv"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r51">
+      <res:binding rdf:nodeID="r51c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.nsbbhr"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r52">
+      <res:binding rdf:nodeID="r52c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.re4lri"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r53">
+      <res:binding rdf:nodeID="r53c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.k75wtr"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r54">
+      <res:binding rdf:nodeID="r54c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.a3bbnf"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r55">
+      <res:binding rdf:nodeID="r55c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.2561t8"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r56">
+      <res:binding rdf:nodeID="r56c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.u6i9zh"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r57">
+      <res:binding rdf:nodeID="r57c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.p8g0zc"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r58">
+      <res:binding rdf:nodeID="r58c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.zgqcgh"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r59">
+      <res:binding rdf:nodeID="r59c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.5a2qg4"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r60">
+      <res:binding rdf:nodeID="r60c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.m1wx3t"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r61">
+      <res:binding rdf:nodeID="r61c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.9pdmiy"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r62">
+      <res:binding rdf:nodeID="r62c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.7oraz1"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r63">
+      <res:binding rdf:nodeID="r63c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.m9irn9"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r64">
+      <res:binding rdf:nodeID="r64c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.be4jzj"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r65">
+      <res:binding rdf:nodeID="r65c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.o4b0v0"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r66">
+      <res:binding rdf:nodeID="r66c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.4oost7"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r67">
+      <res:binding rdf:nodeID="r67c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.49kyf4"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r68">
+      <res:binding rdf:nodeID="r68c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.6rgliw"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r69">
+      <res:binding rdf:nodeID="r69c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.e4gam7"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r70">
+      <res:binding rdf:nodeID="r70c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.n8qona"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r71">
+      <res:binding rdf:nodeID="r71c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.q0bhxd"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r72">
+      <res:binding rdf:nodeID="r72c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.yzn34t"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r73">
+      <res:binding rdf:nodeID="r73c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.mum5jl"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r74">
+      <res:binding rdf:nodeID="r74c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.54nhou"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r75">
+      <res:binding rdf:nodeID="r75c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.0gkvz8"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r76">
+      <res:binding rdf:nodeID="r76c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.g4y8eg"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r77">
+      <res:binding rdf:nodeID="r77c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.468t8h"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r78">
+      <res:binding rdf:nodeID="r78c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.vnwm04"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r79">
+      <res:binding rdf:nodeID="r79c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.2n4nyb"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r80">
+      <res:binding rdf:nodeID="r80c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.rap62h"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r81">
+      <res:binding rdf:nodeID="r81c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.s5qxv5"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r82">
+      <res:binding rdf:nodeID="r82c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.i98utm"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r83">
+      <res:binding rdf:nodeID="r83c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.9mosdy"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r84">
+      <res:binding rdf:nodeID="r84c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.xp0sev"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r85">
+      <res:binding rdf:nodeID="r85c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.el63fn"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r86">
+      <res:binding rdf:nodeID="r86c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.ub4rri"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r87">
+      <res:binding rdf:nodeID="r87c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.cl2ecj"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r88">
+      <res:binding rdf:nodeID="r88c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.rz1j15"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r89">
+      <res:binding rdf:nodeID="r89c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.t3s40a"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r90">
+      <res:binding rdf:nodeID="r90c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.3ocsjc"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r91">
+      <res:binding rdf:nodeID="r91c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.2ytejd"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r92">
+      <res:binding rdf:nodeID="r92c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.wjvni9"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r93">
+      <res:binding rdf:nodeID="r93c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.jjub9u"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r94">
+      <res:binding rdf:nodeID="r94c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.vonpbj"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r95">
+      <res:binding rdf:nodeID="r95c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.79pxgo"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r96">
+      <res:binding rdf:nodeID="r96c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.6a0dxb"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r97">
+      <res:binding rdf:nodeID="r97c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.hmzmbw"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r98">
+      <res:binding rdf:nodeID="r98c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.o5u7kp"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r99">
+      <res:binding rdf:nodeID="r99c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.o5ieb8"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r100">
+      <res:binding rdf:nodeID="r100c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.7bcboi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r101">
+      <res:binding rdf:nodeID="r101c0"><res:variable>s</res:variable><res:value rdf:resource="http://www.rechercheisidore.fr/resource/10670/3.sgjmhl"/></res:binding>
+    </res:solution>
+  </rdf:Description>
+</rdf:RDF>

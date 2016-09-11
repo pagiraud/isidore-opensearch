@@ -1,0 +1,725 @@
+<?xml version="1.0" ?><sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="uricollection"/>
+  <variable name="titrecollection"/>
+  <variable name="description"/>
+  <variable name="adresseweb"/>
+  <variable name="logo"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.m1wx3t</uri></binding>
+   <binding name="titrecollection"><literal>Actualités des Écoles françaises et Instituts français à l'étranger</literal></binding>
+   <binding name="description"><literal>Collection regroupant les actualités des Instituts français et Écoles françaises d'Athènes, École française de Rome, Institut français d'archéologie orientale du Caire, École française d'Extrême-Orient et Casa de Velásquez à Madrid : dans les aires géographiques et les domaines scientifiques de leurs compétences, les cinq écoles françaises à l'étranger ont pour mission de développer la recherche fondamentale sur le terrain et la formation à la recherche.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.enseignementsup-recherche.gouv.fr/cid56594/ecoles-francaises-a-l-etranger.html</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.6rgliw</uri></binding>
+   <binding name="titrecollection"><literal>Agence universitaire de la Francophonie</literal></binding>
+   <binding name="description"><literal>L'Agence universitaire de la Francophonie est une des plus grandes associations d'universités au monde, avec 782 établissements membres dans 98 pays. Elle rassemble des institutions d'enseignement supérieur et de recherche des cinq continents utilisant le français comme langue d'enseignement et de recherche. Fondée en 1961 pour instituer entre les universités de langue française un lien de coopération permettant d'intensifier leurs échanges, elle a intégré la Francophonie institutionnelle en 1989 en devenant son opérateur pour l'enseignement supérieur et la recherche. La charte de la Francophonie de 2005 définit l'AUF comme une institution de la Francophonie, et les nombreux accords de siège que l'AUF a signés avec les États où elle est implantée lui permettent de bénéficier d'un statut juridique d'organisation internationale.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.auf.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.9pdmiy</uri></binding>
+   <binding name="titrecollection"><literal>Archipel, l'archive de publications électroniques de l'UQAM</literal></binding>
+   <binding name="description"><literal>Archipel, l'archive de publications électroniques de l'Université du Québec à Montréal, est constitué de documents issus des travaux de recherche de l'Université. Les documents qui y sont déposés sont donc plus facilement repérables et accessibles sur le Web, ce qui favorise leur diffusion et, par conséquent, les retombées des recherches qu'ils décrivent.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.archipel.uqam.ca</uri></binding>
+   <binding name="logo"><uri>http://www.archipel.uqam.ca/images/bannHaut.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.vonpbj</uri></binding>
+   <binding name="titrecollection"><literal>Archives de Données Issues de la Statistique Publique</literal></binding>
+   <binding name="description"><literal>L'ADISP (Archives de Données Issues de la Statistique Publique), service du Centre Maurice Halbwachs et partenaire du Réseau Quetelet, a constitué un fonds de grandes enquêtes et de bases de données intéressant les sciences sociales et continue de l'alimenter grâce à des conventions signées avec l'INSEE, plusieurs services statistiques ministériels et d'autres institutions publiques. Il met ce fonds à disposition des chercheurs et conseille à ceux qui le souhaitent sur l'utilisation des données. Le catalogue de l'ADISP comprend des enquêtes et bases de données réparties en 10 grands thèmes : éducation et formation, travail et emploi, salaire et revenus, conditions de vie et société, santé et protection sociale, population et démographie, opinions, entreprises, données localisées, données historiques.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.cmh.ens.fr/greco/adisp.php</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.1g5thk</uri></binding>
+   <binding name="titrecollection"><literal>Archives ouvertes</literal></binding>
+   <binding name="description"><literal>L'archive ouverte HAL (Hyper Article en Ligne) se présente comme une bibliothèque numérique recevant et diffusant les productions intellectuelles de la Recherche. HAL est mise en œuvre par le Centre pour la communication scientifique directe.</literal></binding>
+   <binding name="adresseweb"><uri>https://halshs.archives-ouvertes.fr</uri></binding>
+   <binding name="logo"><uri>https://halshs.archives-ouvertes.fr/public/HALSHS.gif</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.you20g</uri></binding>
+   <binding name="titrecollection"><literal>Banque numérique du savoir d'Aquitaine</literal></binding>
+   <binding name="description"><literal>La banque numérique du savoir d'Aquitaine est une bibliothèque numérique régionale mise en oeuvre par la région Aquitaine. Elle signale des données et documents régionaux dans les domaines du patrimoine culturel, historique et archéologique.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.bnsa.aquitaine.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.ov29xb</uri></binding>
+   <binding name="titrecollection"><literal>Biblioteca Digital de Castilla y León</literal></binding>
+   <binding name="description"><literal>The Digital Library of Castile and Leon aims to provide citizens with free and open access to different sets of documents from the region, which are presented in the following sections: Castile and Leon authors works, local and regional themes, Castile and Leon bibliographic heritage and bibliography.</literal></binding>
+   <binding name="adresseweb"><uri>http://bibliotecadigital.jcyl.es</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.n8qona</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque Clermont Université</literal></binding>
+   <binding name="description"><literal>La Bibliothèque Clermont Université (BCU), département du PRES Clermont Université, est le service de documentation qui dessert les deux universités clermontoises, l'université d'Auvergne et l'université Blaise Pascal. Elle développe, depuis début 2011, des projets scientifiques impliquant la numérisation de corpus en lien avec les axes de recherche et les équipes de chercheurs de Clermont-Ferrand.</literal></binding>
+   <binding name="adresseweb"><uri>http://bibliotheque.clermont-universite.fr</uri></binding>
+   <binding name="logo"><uri>http://bibliotheque.clermont-universite.fr/sites/files/portail/cti_flex_logo.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.b28rd3</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque Cujas</literal></binding>
+   <binding name="description"><literal>La bibliothèque Cujas possède l'un des fonds les plus importants de France en sciences juridiques et économiques. Elle est également dépositaire des publications de l'ONU, centre de documentation européenne, centre d'acquisition et de diffusion de l'information scientifique et technique (CADIST) en sciences juridiques. L'entrepôt OAI-PMH a été créé pour faciliter l'accès aux documents numérisés et l'échange de métadonnées descriptives. Il contient les métadonnées de documents tombés dans le domaine public et numérisés à partir d'un exemplaire conservé à la Bibliothèque Cujas.</literal></binding>
+   <binding name="adresseweb"><uri>http://cujas-num.univ-paris1.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.fe16k2</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque Inter-Universitaire Sainte-Geneviève</literal></binding>
+   <binding name="description"><literal>La Bibliothèque Sainte-Geneviève doit son nom et tient ses collections d'une des plus importantes et des plus anciennes abbayes parisiennes. Elle conserve environ deux millions de documents et l'un des premiers fonds patrimoniaux de France. Les axes de numérisation de la Bibliothèque sont le reflet de la diversité et de la richesse de ses fonds : 242 incunables uniques ou singuliers, 285 récits de voyages nordiques s'étalant du 16e siècle au 19e siècle, 600 livres rares du 19e siècle, un vaste ensemble documentaire relatif à l'architecte Henri Labrouste et 900 factums des 17e et 18 e siècles qui seront numérisés fin 2011.</literal></binding>
+   <binding name="adresseweb"><uri>http://www-bsg.univ-paris1.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.o5u7kp</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque Mazarine</literal></binding>
+   <binding name="description"><literal>La Bibliothèque Mazarine, aujourd’hui rattachée à l’Institut de France, est membre du réseau documentaire de l’Enseignement supérieur et de la Recherche. Ouverte dès 1643, installée depuis 1668 dans les bâtiments du Collège des Quatre-Nations, face au Louvre, c'est la plus ancienne bibliothèque de France, une collection patrimoniale exceptionnelle (180 000 imprimés antérieurs à 1800, 2 300 incunables, 4 900 manuscrits, œuvres et objets d’art), et un centre de ressources spécialisé dans les disciplines historiques (sciences auxiliaires de l’histoire, histoire médiévale et moderne, histoire locale et régionale de la France).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.bibliotheque-mazarine.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.79pxgo</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque Numérique du Limousin - Trésors des bibliothèques du Limousin</literal></binding>
+   <binding name="description"><literal>La bibliothèque numérique du Limousin propose des trésors d'intérêt national et des pièces remarquables et intéressantes pour l'histoire régionale, conservées dans les bibliothèques du Limousin : manuscrits médiévaux, incunables, imprimés d'histoire locale, gravures, photographies...</literal></binding>
+   <binding name="adresseweb"><uri>http://www.bn-limousin.fr</uri></binding>
+   <binding name="logo"><uri>http://www.bn-limousin.fr/themes/bibliotheque/images/fall/logo-bibnumlim.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.qwbc0f</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque de documentation internationale contemporaine</literal></binding>
+   <binding name="description"><literal>Bibliothèque-musée spécialisée dans l'histoire contemporaine et les relations internationales des 20ème et 21ème siècles. Créée en 1918 afin de comprendre les causes de la Première guerre mondiale, elle a eu dès ses origines pour vocation de rassembler tous les matériaux et toutes les traces des événements pouvant servir à interpréter et écrire l'histoire de notre temps. Aujourd'hui bibliothèque inter-universitaire rattachée à l'Université de Paris Ouest Nanterre la Défense.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.bdic.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.uft43y</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque de l'Université Paris-Dauphine</literal></binding>
+   <binding name="description"><literal>Depuis juin 2009 la Base de publications de l'université Paris-Dauphine est destinée à accueillir toutes les publications académiques de ses chercheurs (articles, ouvrages, chapitres d'ouvrages, working papers/documents de travail, communications, conférences, rapports, thèses) dans les domaines relatifs aux Sciences des Organisations et de la Décision (Gestion, Economie, Droit, Science Politique, Sociologie, Mathématiques appliquées, Informatique de la décision).</literal></binding>
+   <binding name="adresseweb"><uri>http://basepub.dauphine.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.q0bhxd</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque interuniversitaire de Santé</literal></binding>
+   <binding name="description"><literal>Issue de la fusion en 2011 des bibliothèques interuniversitaires de médecine (BIUM) et de pharmacie (BIUP), la Bibliothèque Interuniversitaire de Santé offre une très grande bibliothèque numérique en ligne : Médic@, une banque d'image, etc.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.biusante.parisdescartes.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.uiv8z3</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque municipale de Besançon</literal></binding>
+   <binding name="description"><literal>Les collections numérisées de la bibliothèque municipale de la ville de Besançon</literal></binding>
+   <binding name="adresseweb"><uri>http://memoirevive.besancon.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.9mosdy</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque municipale de Roubaix</literal></binding>
+   <binding name="description"><literal>La Bibliothèque numérique de Roubaix propose un accès à 46 000 images soit 2736 notices au 1er janvier 2010. Les documents qu'on y trouve sont extraits des collections des établissements culturels de la Ville de Roubaix.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.bn-r.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.hifmxr</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque municipale de Toulouse</literal></binding>
+   <binding name="description"><literal>La bibliothèque municipale de Toulouse propose une bibliothèque numérique (Rosalis) regroupant les collections numériques toulousaines de photographies anciennes, d'estampes, de manuscrits, de cartes et de partitions anciennes, etc.</literal></binding>
+   <binding name="adresseweb"><uri>http://numerique.bibliotheque.toulouse.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.49kyf4</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque numérique de l'Université de Rennes 2</literal></binding>
+   <binding name="description"><literal>La bibliothèque numérique du service commun de documentation de l'Université de Rennes 2 est un projet de numérisation et de valorisation du patrimoine écrit commun aux deux universités rennaises, Rennes 1 et Rennes 2.</literal></binding>
+   <binding name="adresseweb"><uri>http://bibnum.univ-rennes2.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.v11c4f</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque numérique de l'Université de Strasbourg</literal></binding>
+   <binding name="description"><literal>Le Service commun de la documentation de l'Université de Strasbourg gère un réseau de 32 bibliothèques ; d'autres bibliothèques rattachées à des facultés, instituts ou unités de recherche lui sont associées. Le SCD compte 160 agents ainsi qu'une soixantaine de vacataires étudiants en soutien à l'ouverture des bibliothèques.</literal></binding>
+   <binding name="adresseweb"><uri>http://scd.unistra.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.2n4nyb</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque numérique de l'université du Maine</literal></binding>
+   <binding name="description"><literal>Collections numériques de l'Université du Maine</literal></binding>
+   <binding name="adresseweb"><uri>http://www.univ-lemans.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.m9irn9</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque numérique des universités Pierre-Mendès-France et Stendhal</literal></binding>
+   <binding name="description"><literal>La bibliothèque numérique des universités Pierre-Mendès-France et Stendhal est un projet piloté par le SICD2 (Service interétablissements de coopération documentaire – SICD2 Grenoble) visant à mettre à disposition de tous, usagers de la communauté universitaire grenobloise ou internaute à distance, des corpus d’ouvrages issus du fonds ancien de la Bibliothèque universitaire Droit-Lettres de Grenoble. Ce projet en constante évolution a vocation à intégrer à terme des documents conservés dans d’autres institutions selon les axes correspondant aux fonds remarquables de la BU Droit-Lettres de Grenoble, et à l’actualité de la recherche grenobloise en langues, littérature, sciences humaines et sociales. La sélection des titres proposés répond à la fois à des besoins de conservation des originaux mais surtout à la volonté de rendre accessibles largement et gratuitement des ouvrages rares pour soutenir la connaissance et la recherche dans les domaines de spécialité de la BU Droit-Lettres de Grenoble.</literal></binding>
+   <binding name="adresseweb"><uri>http://bibnum-stendhal.upmf-grenoble.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.3ep4kp</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèque patrimoniale de l'université d'Artois</literal></binding>
+   <binding name="description"><literal>Depuis 2007, les fonds des anciennes écoles normales de la région Nord-Pas-de-Calais font l'objet d'un vrai traitement documentaire et d'une valorisation importante. Le Service Commun de la Documentation de l'IUFM Nord-Pas-de-Calais a entrepris le catalogage rétrospectif des ouvrages des anciennes écoles normales d'Arras, de Douai et de Lille.</literal></binding>
+   <binding name="adresseweb"><uri>http://bibnum-bu.univ-artois.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.ji0kr6</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèques Virtuelles Humanistes</literal></binding>
+   <binding name="description"><literal>Le programme des Bibliothèques Virtuelles Humanistes a été conçu en 2002 avec la collaboration de l'IRHT (section de l'humanisme). Il constitue, avec l'élaboration des catalogues des Incunables des bibliothèques de France, le volet recherche sur le livre ancien du CESR. Il diffuse des documents patrimoniaux et poursuit des recherches associant des compétences en sciences humaines et en informatique.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.bvh.univ-tours.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.2ytejd</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèques de l'Université de Poitiers</literal></binding>
+   <binding name="description"><literal>Ressources numériques et expositions virtuelles proposé par les bibliothèques de l'Université de Poitiers.</literal></binding>
+   <binding name="adresseweb"><uri>http://scd.univ-poitiers.fr</uri></binding>
+   <binding name="logo"><uri>http://scd.univ-poitiers.fr/images/logo-universite-poitiers-mini.svg</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.jjub9u</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèques municipales de Versailles</literal></binding>
+   <binding name="description"><literal>Le réseaux des bibliothèques de Versailles propose un entrepôt OAI-PMH regroupant manuscrits et fonds musicaux numérisés.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.bibliotheques.versailles.fr/Statique/index.htm</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.5o3050</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèques numériques de l'Université de Montréal</literal></binding>
+   <binding name="description"><literal>Papyrus et Calypso sont des dépôts de données proposés par les bibliothèques de l'Université de Montréal. Vous trouverez ici différentes formes de travaux de recherche et d'enseignement (pré-publications, articles, rapports techniques, présentations, ensembles de données, etc.) produites par les professeurs et chercheurs de notre institution. Calypso vous fait découvrir une sélection d'objets numériques provenant des collections de la Direction des bibliothèques de l'Université de Montréal.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.bib.umontreal.ca</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.oree80</uri></binding>
+   <binding name="titrecollection"><literal>Bibliothèques numériques des BU de Lille 3</literal></binding>
+   <binding name="description"><literal>Le service commun de documentation de l'université de Lille 3 propose l'accès à une bibliothèque numérique d'histoire régionale (NordNum) et une bibliothèque patrimoniale virtuelle de livres imprimés avant 1810 (PÔlib).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.univ-lille3.fr/documentation/scd</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.nsbbhr</uri></binding>
+   <binding name="titrecollection"><literal>CEDIAS-Musée social</literal></binding>
+   <binding name="description"><literal>Issu en 1963 de la fusion du Musée social et de l'Office Central des Œuvres de Bienfaisance, le CEDIAS-Musée social bénéficie du statut de fondation privée reconnue d'utilité publique.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.cedias.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.x254h7</uri></binding>
+   <binding name="titrecollection"><literal>Cairn.info</literal></binding>
+   <binding name="description"><literal>Cairn.info est né de la volonté de quatre maisons d'édition (Belin, De Boeck, La Découverte et Erès) ayant en charge la publication et la diffusion de revues de sciences humaines et sociales, d'unir leurs efforts pour améliorer leur présence sur l'Internet, et de proposer à d'autres acteurs souhaitant développer une version électronique de leurs publications, les outils techniques et commerciaux développés à cet effet.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.cairn.info</uri></binding>
+   <binding name="logo"><uri>http://www.cairn.info/img/CAIRN.INFO.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.u6i9zh</uri></binding>
+   <binding name="titrecollection"><literal>Calames : le catalogue en ligne des archives et des manuscrits de l'Enseignement supérieur</literal></binding>
+   <binding name="description"><literal>Calames est le catalogue des archives et des manuscrits des bibliothèques universitaires françaises, mais aussi de grands établissements nationaux (tel que l'Institut de France, Muséum d'histoire naturelle,...) et de plusieurs bibliothèques de recherche (Bibliothèque Littéraire Jacques Doucet).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.calames.abes.fr</uri></binding>
+   <binding name="logo"><uri>http://www.calames.abes.fr/pub/images/calames-entete.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.c6kefw</uri></binding>
+   <binding name="titrecollection"><literal>Calenda</literal></binding>
+   <binding name="description"><literal>Calenda est le plus important calendrier francophone en sciences humaines et sociales en ligne et fait partie du portail de ressources électronique OpenEdition. En libre accès, il diffuse le programme de plusieurs milliers d'événements scientifiques. Il informe ainsi étudiants, enseignants et chercheurs de l'actualité de la recherche.</literal></binding>
+   <binding name="adresseweb"><uri>http://calenda.org</uri></binding>
+   <binding name="logo"><uri>http://calenda.org/images/logo_calenda_425X65.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.k75wtr</uri></binding>
+   <binding name="titrecollection"><literal>Centre Alexandre-Koyré - CRHST</literal></binding>
+   <binding name="description"><literal>Les collections numériques du Centre Alexandre-Koyré - CRHST sont constituées de corpus et d'archives numériques en philosophie et histoire des sciences et des techniques (XVIIe-XXe siècle). Cette véritable bibliothèque numérique, fondée en l'an 2000 par le CRHST et aujourd'hui animée par le Centre A.-Koyré - CRHST et le Centre national pour la numérisation de sources visuelles.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.koyre.cnrs.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.cl2ecj</uri></binding>
+   <binding name="titrecollection"><literal>Centre de Recherche et de Documentation sur l'Océanie</literal></binding>
+   <binding name="description"><literal>Le CREDO est un centre de recherche et de documentation pluridisciplinaire dans les domaines de l'anthropologie sociale et culturelle, de l'histoire et de l'archéologie. Ses membres comprennent des chercheurs et enseignants de trois institutions: le CNRS, l'EHESS et l'Université de Provence. Les membres du CREDO dispensent des enseignements et encadrent des étudiants à l'Université de Provence et à l'Ecole des Hautes Etudes en Sciences Sociales à Marseille.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.pacific-credo.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.sd35pu</uri></binding>
+   <binding name="titrecollection"><literal>Centre de documentation REGARDS</literal></binding>
+   <binding name="description"><literal>Le Centre de Documentation REGARDS est la composante documentaire du laboratoire Aménagement, Développement, Environnement, Santé et Sociétés (ADES). Créé en 1968, le centre comprend une Bibliothèque de recherche, une Cartothèque-Photothèque et un système de Bases de données. Le fonds documentaire couvre les domaines suivants : géographie, aménagement, développement, environnement, santé, sociétés. Le centre assure aussi le développement technologique des bases de données et sites web du GIS RAFID-Formation et Information pour le Développement, du GIS Institut des Amériques, du Réseau Amérique Latine et du Réseau européen REDIAL. Il est membre fondateur du Centre national pour la numérisation de sources visuelles et développe la plate-forme AOMS.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.regards.cnrs.fr</uri></binding>
+   <binding name="logo"><uri>http://www.regards.cnrs.fr/img/logo_regards.gif</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.54nhou</uri></binding>
+   <binding name="titrecollection"><literal>Centre de recherche bretonne et celtique</literal></binding>
+   <binding name="description"><literal>Le Centre de recherche bretonne et celtique (CRBC, EA 4451 / UMS 3554) est un laboratoire de recherche pluridisciplinaire de 46 membres (historiens, de l’antiquité à nos jours ; linguistes, celtisants et anglicistes ; ethnologues ; sociologues ; littéraires principalement) qui investissent des thèmes et des terrains de recherche relevant des aires culturelles bretonne et celtique. Mais ils mènent également, à titre comparatif, des recherches individuelles ou collectives sur d’autres terrains, à l’échelle de l’Europe, notamment atlantique, voire au-delà. Le CRBC a été fondé en 1969 par Yves Le Gallo.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.univ-brest.fr/crbc</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.zwdu7x</uri></binding>
+   <binding name="titrecollection"><literal>Centre franco-égyptien d'étude des temples de Karnak</literal></binding>
+   <binding name="description"><literal>En 1895, le Service des Antiquités crée la Direction des travaux de Karnak, confiée successivement à Georges Legrain (1895-1917), Maurice Pillet (1920-1925) et Henri Chrevrier (1926-1954). Entre 1955 et 1966, les travaux sont dirigés par Chehata Adam, Farid el-Chaboury, Mohammed Hammad et Farag Abd el-Mottaleb. En 1967, un protocole est signé entre les ministres de la culture égyptien et français Sarwat Okacha et André Malraux, officialisant la naissance du Centre franco-égyptien d'étude des temples de Karnak (CFEETK), chargé de l’étude et de la restauration des temples de Karnak. Depuis lors, le CFEETK est la structure qui a la charge des travaux de recherche et de conservation dans l’enceinte du temple d’Amon-Rê. Il est placé sous la tutelle de Conseil Suprême des Antiquités égyptiennes (CSA) et du Centre National de la Recherche Scientifique (CNRS). Le nouveau protocole qui a été signé entre le CSA et le CNRS en décembre 2007 a renforcé la volonté commune de coopération sur le site de Karnak. Depuis le 1er janvier 2008, l’équipe permanente CNRS est devenue une Unité de service et de recherche (USR 3172).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.cfeetk.cnrs.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.zgqcgh</uri></binding>
+   <binding name="titrecollection"><literal>Centres de recherche et laboratoires en SHS</literal></binding>
+   <binding name="description"><literal>Cette collection rassemble des sources de données et d'informations proposées en premier lieu par des laboratoires, des centres de ressources numériques, des réseaux ou des dispositifs de collecte des données dépendant du CNRS, des universités ou encore du minitère de la Culture et de la communication. Ces sources contiennent en particulier des données issues de sites web, bases de données scientifiques et publications dynamiques exposées selon les principes du web sémantique et du linked data.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.cnrs.fr/inshs</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.ue231r</uri></binding>
+   <binding name="titrecollection"><literal>Centres de ressources et de données en SHS</literal></binding>
+   <binding name="description"><literal>Cette collection rassemble des sources proposant le signalement de métadonnées issues de collections numériques éditées par des centres de ressources numériques, des réseaux ou des dispositifs de collecte des données de la recherche dépendant du CNRS, des universités ou encore du ministère de la culture et de la communication dans les disciplines des SHS.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.cnrs.fr/inshs</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.6a0dxb</uri></binding>
+   <binding name="titrecollection"><literal>Consejo Superior de Investigaciones Científicas</literal></binding>
+   <binding name="description"><literal>Open archive of the Consejo Superior de Investigaciones Científicas (Spain).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.csic.es</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.fmfcx8</uri></binding>
+   <binding name="titrecollection"><literal>Conservatoire numérique des Arts et Métiers</literal></binding>
+   <binding name="description"><literal>Le Conservatoire numérique des Arts et Métiers est une bibliothèque numérique consacrée à l'histoire des sciences et des techniques, constituée à partir du fonds ancien de la bibliothèque du Conservatoire national des arts et métiers (CNAM). Le CNUM est un projet commun de la Bibliothèque, du Centre d'histoire des techniques et de l'environnement et du Centre d'études et de recherche en informatique du CNAM.</literal></binding>
+   <binding name="adresseweb"><uri>http://cnum.cnam.fr</uri></binding>
+   <binding name="logo"><uri>http://cnum.cnam.fr/IMA/accueil.big.gif</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.z6vjjb</uri></binding>
+   <binding name="titrecollection"><literal>Consortium CAHIER : Corpus d'Auteurs pour les Humanités, Information, Edition, Recherche</literal></binding>
+   <binding name="description"><literal/></binding>
+   <binding name="adresseweb"><uri>http://cahier.hypotheses.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.mq7wsv</uri></binding>
+   <binding name="titrecollection"><literal>Consortium Cartes et photographies pour les géographes</literal></binding>
+   <binding name="description"><literal>Cette collection regroupe l'ensemble des corpus et bases de données du consortium de la TGIR Huma-Num : Cartes et photographies pour les géographes. Le Consortium” Cartes et photographies pour les géographes”, labellisé par la TGIR Huma-Num, rassemble à ce jour différents laboratoires du CNRS : ADESS, PRODIG, MIGRINTER, GEODE ainsi que la cartothèque de l'Université de Bordeaux Montaigne. Il a pour objectif la numérisation, l'archivage et la valorisation de cartes et de photographies souvent produites par les géographes de ces laboratoires et issues de leurs fonds.</literal></binding>
+   <binding name="adresseweb"><uri>http://humanum.hypotheses.org/191</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.il9wnp</uri></binding>
+   <binding name="titrecollection"><literal>Criminocorpus. Histoire de la justice, des crimes et des peines</literal></binding>
+   <binding name="description"><literal>Criminocorpus est une plateforme de publication proposant des instruments de recherche (bibliographie, guide des archives), une bibliothèque numérique, des statistiques et un musée d'histoire de la justice (expositions, visites virtuelles de lieux de justice)</literal></binding>
+   <binding name="adresseweb"><uri>https://criminocorpus.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.wjvni9</uri></binding>
+   <binding name="titrecollection"><literal>ENS de Lyon</literal></binding>
+   <binding name="description"><literal>L'ENS de Lyon accomplit une double mission d'enseignement et de recherche. Elle dispense une formation d'excellence, de la troisième année de licence au doctorat, à des élèves recrutés sur concours et à des étudiants sélectionnés, tout en développant une recherche de premier plan dans les domaines des sciences exactes et expérimentales (biologie, chimie, informatique, mathématiques, physique, sciences de la Terre) et des sciences humaines et sociales (lettres et arts, langues, sciences humaines, sciences sociales).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.ens-lyon.eu</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.ub4rri</uri></binding>
+   <binding name="titrecollection"><literal>Ecole nationale des Ponts et Chaussées</literal></binding>
+   <binding name="description"><literal/></binding>
+   <binding name="adresseweb"><uri>http://www.enpc.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.0gkvz8</uri></binding>
+   <binding name="titrecollection"><literal>Ecole nationale supérieure des sciences de l'information et des bibliothèques</literal></binding>
+   <binding name="description"><literal>L'École nationale supérieure des sciences de l'information et des bibliothèques (enssib) est un établissement public créé en 1992.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.enssib.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.x2dz1g</uri></binding>
+   <binding name="titrecollection"><literal>Epsilon</literal></binding>
+   <binding name="description"><literal>Epsilon est un dispositif de conservation stable et de diffusion de long terme des publications électroniques de l'Insee et des services statistiques ministériels, dans une logique et avec les outils des archives ouvertes. La base Epsilon vous offre la possibilité de consulter des documents en texte intégral. Epsilon est organisé en communautés et sous-communautés, chacune ayant ses propres collections pouvant contenir un nombre illimité de documents.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.epsilon.insee.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.5hpq3o</uri></binding>
+   <binding name="titrecollection"><literal>Epublications - Université de Limoges</literal></binding>
+   <binding name="description"><literal>Epublications.unilim.fr est le portail des publications électroniques de l'Université de Limoges. Il donne accès à des documents accessibles librement en texte intégral.</literal></binding>
+   <binding name="adresseweb"><uri>http://epublications.unilim.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.asd832</uri></binding>
+   <binding name="titrecollection"><literal>Erudit</literal></binding>
+   <binding name="description"><literal>Erudit est une société sans but lucratif et un consortium interuniversitaire composé de l'Université de Montréal, de l'Université Laval et de l'Université du Québec à Montréal qui œuvre dans le domaine de l’édition numérique depuis 1998. Erudit propose un modèle innovateur de promotion et de diffusion de la recherche et de la création. Erudit constitue le « pôle Québec » du projet Synergies.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.erudit.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.rap62h</uri></binding>
+   <binding name="titrecollection"><literal>Fabula : la recherche en littérature</literal></binding>
+   <binding name="description"><literal>Fabula une association de chercheurs s'intéressant à l'articulation entre théorie et histoire littéraires, rassemblés autour d'un site Internet. En outre, le site Fabula se veut un lieu de ressources et de rencontre destiné aux chercheurs du large domaine des études littéraires. A ce travail de recherche s'ajoutent donc une mission d'information et une activité de publication. Le site Fabula est mis gratuitement à la disposition de tous les chercheurs de langue française, quel que soit leur champ de recherche.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.fabula.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.be4jzj</uri></binding>
+   <binding name="titrecollection"><literal>Fondation Maison des sciences de l'homme</literal></binding>
+   <binding name="description"><literal>La Fondation assure une mission de promotion des sciences de l’homme. Elle contribue depuis 50 ans à la visibilité et au rayonnement de ces disciplines en France et dans le monde, grâce aux relations privilégiées et aux réseaux qu’elle a su nouer par des liens informels avec les chercheurs étrangers qu’elle invite ou dans le cadre de partenariats institutionnels ou d’accords bilatéraux. Elle fait véritablement office de vitrine pour les SHS à l’échelle nationale et internationale.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.fmsh.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.xut8e9</uri></binding>
+   <binding name="titrecollection"><literal>Gallica</literal></binding>
+   <binding name="description"><literal>Gallica est la Bibliothèque numérique de la Bibliothèque nationale de France. Elle offre un accès à tous types de supports : imprimés (monographies, périodiques et presse) en mode image et en mode texte, manuscrits, documents sonores, documents iconographiques, cartes et plans.</literal></binding>
+   <binding name="adresseweb"><uri>http://gallica.bnf.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.0ardxl</uri></binding>
+   <binding name="titrecollection"><literal>Hypotheses.org : carnets de recherches en Sciences humaines et sociales</literal></binding>
+   <binding name="description"><literal>Hypotheses.org est une plateforme de publication de carnets de recherche éditoriaux en sciences humaines et sociales. Ouverte en 2008, elle permet aux chercheurs et équipes de recherche de communiquer rapidement et simplement sur leurs activités de recherche. Hypotheses.org est une plateforme de publication de carnets de recherche éditoriaux en sciences humaines et sociales. Ouverte en 2008, elle permet aux chercheurs et équipes de recherche de communiquer rapidement et simplement sur leurs activités de recherche.</literal></binding>
+   <binding name="adresseweb"><uri>http://hypotheses.org</uri></binding>
+   <binding name="logo"><uri>http://hypotheses.org/files/2011/06/bandeau-hypo_1000x100_ok.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.waaksn</uri></binding>
+   <binding name="titrecollection"><literal>I-Revues</literal></binding>
+   <binding name="description"><literal>La plateforme I-Revues, développée par l'INIST-CNRS, permet l'accès à des revues, des actes de colloques, des livres électroniques et aux lettres d'information de plus de la moitié des MSH françaises. Une cinquantaine de titres et 30 000 documents sont disponibles en libre accès, à l'exception des numéros récents pour quelques revues. Ce service a pour objectif de promouvoir l'édition électronique scientifique française et participe, en partenariat avec des institutions nationales et régionales, à la valorisation des fonds documentaires patrimoniaux confiés à l'Inist par ces organismes (CNAM, Centre national de l'entreprenariat, Direction régionale des affaires culturelles de Lorraine.)</literal></binding>
+   <binding name="adresseweb"><uri>http://irevues.inist.fr</uri></binding>
+   <binding name="logo"><uri>http://irevues.inist.fr/images/logo_irevues.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.7bcboi</uri></binding>
+   <binding name="titrecollection"><literal>Ifremer</literal></binding>
+   <binding name="description"><literal>L'Ifremer contribue, par ses travaux et expertises, à la connaissance des océans et de leurs ressources, à la surveillance du milieu marin et du littoral et au développement durable des activités maritimes. A ces fins, il conçoit et met en œuvre des outils d'observation, d'expérimentation et de surveillance, et gère des bases de données océanographiques.</literal></binding>
+   <binding name="adresseweb"><uri>http://wwz.ifremer.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.3ocsjc</uri></binding>
+   <binding name="titrecollection"><literal>Institut de recherche et d'histoire des textes</literal></binding>
+   <binding name="description"><literal>Cette collection regroupe l'ensemble des manuscrits et données proposés par l'institut de recherche et d'histoire des textes (IRHT). L'IRHT a pour mission la recherche fondamentale sur le manuscrit médiéval et la transmission des textes de l'antiquité à la renaissance. L'institut de recherche et d'histoire des textes est une unité propre de recherche du CNRS dépendant de l'institut des sciences humaines et sociales).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.irht.cnrs.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.4sjjfq</uri></binding>
+   <binding name="titrecollection"><literal>Institut de recherche pour le développement</literal></binding>
+   <binding name="description"><literal>L'Institut de recherche pour le développement, organisme de recherche original et unique dans le paysage européen de la recherche pour le développement, a pour vocation de mener des recherches au Sud, pour le Sud et avec le Sud. Ses chercheurs interviennent sur les grands enjeux mondiaux d'actualité : réchauffement climatique, maladies émergentes, biodiversité, accès à l'eau, migrations, pauvreté, faim dans le monde et contribuent par la formation au renforcement des communautés scientifiques du Sud.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.ird.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.i98utm</uri></binding>
+   <binding name="titrecollection"><literal>Institut interdisciplinaire d'anthropologie du contemporain</literal></binding>
+   <binding name="description"><literal>Fondé le 1er janvier 2006, l'Institut interdisciplinaire d'anthropologie du contemporain (iiAC) est composé de cinq équipes - CEM, LAHIC, LAIOS, LAUM, TRAM - sous la tutelle commune de l'EHESS et du CNRS. Il se donne pour objet l'anthropologie des sociétés contemporaines, celles-ci étant appréhendées en référence non pas tant à leur existence présente qu'à leur partage d'un même temps historique.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.iiac.cnrs.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.2561t8</uri></binding>
+   <binding name="titrecollection"><literal>Institut national de l'histoire de l'art</literal></binding>
+   <binding name="description"><literal>L'INHA a pour mission de développer l'activité scientifique et de contribuer à la coopération scientifique internationale dans le domaine de l’histoire de l'art et du patrimoine. Il exerce des activités de recherche, de formation et de diffusion des connaissances.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.inha.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.5a2qg4</uri></binding>
+   <binding name="titrecollection"><literal>Institut national de la recherche agronomique</literal></binding>
+   <binding name="description"><literal>Dans un contexte climatique, démographique et énergétique complexe, la recherche agronomique doit étudier des enjeux majeurs à des échelles variées. Imaginer la disponibilité et la sécurité alimentaire mondiale en 2050, contribuer à la limitation du gaz à effet de serre d’origine agricole, favoriser l’adaptation de l’agriculture et des forêts au changement climatique non réversible sont autant de préoccupations mondialement partagées. Elles impliquent, entre autres, de connaître les comportements des individus à l’échelle des territoires ou des marchés, d’étudier les liens entre la santé des plantes, des animaux et des hommes, de rechercher de nouvelles voies pour la production d’énergie et de matériaux issus de l’agriculture et d’en limiter en général l’impact environnemental... Pour cela, l’Institut national de la recherche agronomique (Inra) produit des connaissances scientifiques et accompagne l’innovation économique et sociale dans les domaines de l’alimentation, de l’agriculture et de l’environnement.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.inra.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.e4gam7</uri></binding>
+   <binding name="titrecollection"><literal>Inter-university Consortium for Political and Social Research</literal></binding>
+   <binding name="description"><literal>ICPSR advances and expands social and behavioral research, acting as a global leader in data stewardship and providing rich data resources and responsive educational opportunities.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.icpsr.umich.edu</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.quhame</uri></binding>
+   <binding name="titrecollection"><literal>Irstea : publications scientifiques et techniques</literal></binding>
+   <binding name="description"><literal>Cette collection regroupe les publications scientifiques et techniques de l'Irstea, l'institut de recherche en sciences et technologies pour l'environnement. Le Irstea (ex. Cemagref) est un organisme de recherche spécialisé en sciences et technologies pour l'environnement. Il fonde sa stratégie sur une double compétence dans les domaines de l'eau et des agro procédés.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.irstea.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.re4lri</uri></binding>
+   <binding name="titrecollection"><literal>La vie des idées</literal></binding>
+   <binding name="description"><literal>La Vie des idées est un magazine international d'analyse et d'information sur le débat d'idées. Il est rattachée à l'Institut du Monde Contemporain (Collège de France) et dirigée par Pierre Rosanvallon.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.laviedesidees.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.sgjmhl</uri></binding>
+   <binding name="titrecollection"><literal>Laboratoire Parole et langage</literal></binding>
+   <binding name="description"><literal>Cette collection regroupe des ressources numériques proposées par la banque de données Speech and Language Data Repository du laboratoire Parole et langage (Aix en Provence).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.lpl.univ-aix.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.0jhvn2</uri></binding>
+   <binding name="titrecollection"><literal>Laboratoire d'histoire des sciences et de Philosophie - Archives Henri Poincaré</literal></binding>
+   <binding name="description"><literal>Le Laboratoire d'histoire des sciences et de Philosophie - Archives Henri Poincaré développe un modèle d'équipe transdisciplinaire. L'originalité de celle-ci consiste dans le fait de réunir dans un même projet des scientifiques intéressés à l'histoire et à l'épistémologie de leur disciplines et des philosophes et historiens prêts à apprendre les contenus scientifiques et à guider les travaux historiques et philosophiques des scientifiques.</literal></binding>
+   <binding name="adresseweb"><uri>http://poincare.univ-nancy2.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.t3s40a</uri></binding>
+   <binding name="titrecollection"><literal>Laboratoire de recherche Sciences Techniques Éducation Formation</literal></binding>
+   <binding name="description"><literal>Le laboratoire TEF (Sciences Techniques Éducation Formation) a été créée en 2003. Sa constitution correspond à la fusion du Groupe de Didactique des Sciences et des Techniques de Cachan (GDSTC) créé en 1990 à l'École Normale Supérieure de Cachan et dirigé par Jean-Louis Martinand et d'unités du département de Didactiques des Disciplines de l'INRP (unité processus cognitifs et didactique des disciplines technologiques et unité didactique des sciences expérimentales dirigée par Claudine Larcher).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.stef.ens-cachan.fr</uri></binding>
+   <binding name="logo"><uri>http://www.stef.ens-cachan.fr/img/poster_800.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.rbcb11</uri></binding>
+   <binding name="titrecollection"><literal>Libre accès aux rapports scientifiques et techniques - INIST</literal></binding>
+   <binding name="description"><literal>Ce site de l'INIST-CNRS vous propose l'accès au texte intégral des rapports scientifiques et techniques français.</literal></binding>
+   <binding name="adresseweb"><uri>http://lara.inist.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.38sazq</uri></binding>
+   <binding name="titrecollection"><literal>Liens Socio : portail francophone généraliste d'informations en sciences sociales</literal></binding>
+   <binding name="description"><literal>Liens Socio est un portail francophone généraliste d'informations en sciences sociales, fondé en 2001 par Pierre Mercklé. La vocation de Liens Socio est de rendre compte, en toute indépendance, de l'actualité des sciences sociales dans toutes leurs dimensions : manifestations scientifiques et appels à contributions, offres de postes et d'emploi, bourses et prix… Il propose également une veille de l'actualité éditoriale des sciences sociales, avec la publication de comptes rendus de publications récentes, rédigées par un vaste réseau de contributeurs, qu'ils soient doctorants en sciences sociales, professeurs de sciences économiques et sociales, chercheurs ou enseignants-chercheurs.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.liens-socio.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.f4pod0</uri></binding>
+   <binding name="titrecollection"><literal>Littérature, Idéologies, Représentations</literal></binding>
+   <binding name="description"><literal>La littérature française des XVIIIe et XIXe siècles, restituée dans toute son extension (c'est-à-dire sans limites de canon, de genre ou de support), et requestionnée selon des thématiques actuelles (ce qui ne veut pas dire de manière anachronique), constitue le principal champ d'investigation du LIRE. Cet ancrage n'exclut pas pour autant des incursions en amont et en aval des deux siècles visés, des ouvertures à d'autres disciplines et domaines d'étude (histoire, anthropologie, gender studies, transferts culturels, orientalisme, arts du spectacle, musicologie...), et une prise en compte des littératures et théories littéraires étrangères.</literal></binding>
+   <binding name="adresseweb"><uri>http://cahier.hypotheses.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.0hzkam</uri></binding>
+   <binding name="titrecollection"><literal>Maison Méditerranéenne des Sciences de l'Homme</literal></binding>
+   <binding name="description"><literal>Collections numériques des données diffusées par la Maison Méditerranéenne des Sciences de l'Homme.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.mmsh.univ-aix.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.y9hk2x</uri></binding>
+   <binding name="titrecollection"><literal>Maison René-Ginouvès Archéologie et Ethnologie</literal></binding>
+   <binding name="description"><literal>La Maison Archéologie &amp; Ethnologie, René-Ginouvès, sous la triple tutelle du CNRS et des Universités de Paris I Panthéon-Sorbonne et Paris Ouest Nanterre La Défense, est un organisme de recherche et de formation à la recherche qui réunit plusieurs disciplines des sciences de l’homme et de la société : Archéologie, Préhistoire et Protohistoire, Ethnologie et sociologie comparative, Ethnomusicologie, Histoire ancienne et médiévale, lettres classiques.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.mae.u-paris10.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.x5tjuy</uri></binding>
+   <binding name="titrecollection"><literal>Maison de l'Orient et de la Méditerranée</literal></binding>
+   <binding name="description"><literal>Cette collection regroupe les ressources numériques proposées par la Maison de l'Orient et de la Méditerranée - Jean Pouilloux (MOM). La MOM est une maison des sciences de l'homme fondée en 1975 par Jean Pouilloux qui rassemble 370 personnes et possède un large rayonnement international en particulier dans les domaines de l'archéologie et de l'histoire.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.mom.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.el63fn</uri></binding>
+   <binding name="titrecollection"><literal>Maison des Sciences de l’Homme et de la Société de Toulouse</literal></binding>
+   <binding name="description"><literal>Créée en 1999, la Maison des Sciences de l’Homme et de la Société de Toulouse (MSHS-T) est une Unité de Service et de Recherche (USR 3414) depuis 2011. Elle est rattachée à l’Institut des Sciences Humaines et Sociales (InSHS) du CNRS.</literal></binding>
+   <binding name="adresseweb"><uri>http://w3.msh.univ-tlse2.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.gsj8is</uri></binding>
+   <binding name="titrecollection"><literal>Maison des Sciences l'Homme de Dijon</literal></binding>
+   <binding name="description"><literal>Collections numériques des données diffusées par la Maison des Sciences de l'Homme de Dijon.</literal></binding>
+   <binding name="adresseweb"><uri>http://msh-dijon.u-bourgogne.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.jzo9wl</uri></binding>
+   <binding name="titrecollection"><literal>Maison des sciences de l'Homme Clermont-Ferrand</literal></binding>
+   <binding name="description"><literal>Cette collection regroupe l'ensemble des corpus, revues, et bases de données numériques de la maison des sciences de l'Homme de Clermont-Ferrand. La Maison des Sciences de l’Homme de Clermont-Ferrand, membre du Réseau National des MSH (GIS RNMSH), est placée sous la double tutelle du CNRS (INSHS, INEE) et de l'Université Blaise Pascal, sous le statut d'Unité Mixte de Service et de Recherche (USR 3550).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.msh-clermont.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.05a9vy</uri></binding>
+   <binding name="titrecollection"><literal>Maison interuniversitaire des sciences de l'homme - Alsace</literal></binding>
+   <binding name="description"><literal>Collections numériques et bases de données hébergées par la Maison interuniversitaire des sciences de l'homme - Alsace : BAHR, HistCarto, etc.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.misha.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.hmzmbw</uri></binding>
+   <binding name="titrecollection"><literal>Manioc : bibliothèque numérique, Amazonie, plateau des Guyanes</literal></binding>
+   <binding name="description"><literal>Manioc est une bibliothèque numérique spécialisée sur la Caraïbe, l'Amazonie, le Plateau des Guyanes et les régions ou centres d'intérêt liés à ces territoires.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.manioc.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.ppgidd</uri></binding>
+   <binding name="titrecollection"><literal>Numdam</literal></binding>
+   <binding name="description"><literal>e serveur NUMDAM (Numérisation de documents anciens mathématiques) propose un accès libre aux métadonnées et aux articles de revues de mathématiques. Pour chaque revue concernée, la totalité des volumes publiés jusqu'en l'an 2000 (voire au-delà) a été convertie au format numérique, ce qui représente actuellement 43 000 articles.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.numdam.org</uri></binding>
+   <binding name="logo"><uri>http://www.numdam.org/Images/numdam_logo.gif</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.t43gyd</uri></binding>
+   <binding name="titrecollection"><literal>ORBi : Université de Liège</literal></binding>
+   <binding name="description"><literal>Sur proposition du Recteur, le Conseil d'Administration de l'ULg décide en date du 23 mai 2007 la création de la digithèque ULg (document CA). La décision est confirmée à l'ensemble de la communauté ULg via le blog du recteur en date du 30 juin 2007. Le 29 juin 2007 puis le 28 septembre 2007, le Conseil d'Administration de la FUSAGx décide officiellement de s'associer au projet et définit une politique institutionnelle identique à celle de l'ULg. Enfin, novembre 2008 marque le lancement officiel d'ORBi. L'acronyme ORBi signifie Open Repository and Bibliography (répertoire et bibliographie institutionnels ouverts). Il forme aussi la locution latine orbi (pour le monde) et signe la volonté de l'Université de mettre d'avantage encore sa production scientifique à disposition de tous, sans contrainte financière ou technique.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.ulg.ac.be</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.pwofj8</uri></binding>
+   <binding name="titrecollection"><literal>Open Access Publishing in European Networks</literal></binding>
+   <binding name="description"><literal>The OAPEN Foundation is a non-profit foundation dedicated to Open Access publishing of academic books. OAPEN provides a platform for the full text dissemination of Open Access books and provides services to publishers and libraries. OAPEN builds a quality controlled collection of Open Access books, mainly in the area of Humanities and Social Sciences, and develops services for publishers, libraries and research funders in the areas of dissemination, quality assurance and digital preservation.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.oapen.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.o4b0v0</uri></binding>
+   <binding name="titrecollection"><literal>Open Archive Toulouse Archive Ouverte</literal></binding>
+   <binding name="description"><literal>OATAO (Open Archive Toulouse Archive Ouverte) s'inscrit dans le cadre du Pôle de Recherche et d'Enseignement Supérieur Université de Toulouse (http://www.univ-toulouse.fr/). C'est une archive ouverte institutionnelle créée et gérée par des professionnels de la documentation de plusieurs établissements de l'université de Toulouse.</literal></binding>
+   <binding name="adresseweb"><uri>http://oatao.univ-toulouse.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.szxq6s</uri></binding>
+   <binding name="titrecollection"><literal>OpenEdition Books</literal></binding>
+   <binding name="description"><literal>OpenEdition Books est une plateforme de livres en sciences humaines et sociales. Plus de la moitié d'entre eux est en libre accès. Des services complémentaires sont proposés via les bibliothèques et institutions abonnées.</literal></binding>
+   <binding name="adresseweb"><uri>http://books.openedition.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.p8g0zc</uri></binding>
+   <binding name="titrecollection"><literal>Ortolang</literal></binding>
+   <binding name="description"><literal>ORTOLANG est un équipement d’excellence validé dans le cadre des investissements d’avenir. Son but est de proposer une infrastructure en réseau offrant un réservoir de données (corpus, lexiques, dictionnaires, etc.) et d’outils sur la langue et son traitement clairement disponibles et documentés qui permette, au travers d’une véritable mutualisation, à la recherche sur l’analyse, la modélisation et le traitement automatique de notre langue de se hisser au meilleur niveau international ; qui facilite l’usage et le transfert des ressources et outils mis en place au sein des laboratoires publics vers les partenaires industriels, en particulier vers les PME qui souvent ne peuvent pas se permettre de développer de telles ressources et outils de traitement de la langue compte tenu de leurs coûts de réalisation et qui valorise le français et les langues de France à travers un partage des connaissances sur notre langue accumulées par les laboratoires publics.</literal></binding>
+   <binding name="adresseweb"><uri>https://www.ortolang.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.akfefo</uri></binding>
+   <binding name="titrecollection"><literal>Persée</literal></binding>
+   <binding name="description"><literal>Persée est un programme national de bibliothèque scientifique soutenu par le MESR et mis en œuvre par l'Université Lyon 2, en collaboration avec la MOM, l'Université Paris-Descartes et le CINES.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.persee.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.jjkg01</uri></binding>
+   <binding name="titrecollection"><literal>REDALYC : Red de Revistas Científicas de América Latina y el Caribe, España y Portugal</literal></binding>
+   <binding name="description"><literal/></binding>
+   <binding name="adresseweb"><uri>http://www.redalyc.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.rz1j15</uri></binding>
+   <binding name="titrecollection"><literal>REseau ROmand. Réseau des bibliothèques de Suisse occidentale</literal></binding>
+   <binding name="description"><literal>RERO, acronyme de REseau ROmand, désigne le réseau des bibliothèques de Suisse occidentale. Né, voilà plus de vingt ans, de la volonté de coopération de plusieurs grandes bibliothèques romandes, RERO regroupe aujourd'hui la plupart des bibliothèques universitaires, publiques et patrimoniales des cantons de Genève, Fribourg, Jura, Neuchâtel, Valais et Vaud, ainsi que celles des tribunaux de la Confédérations. RERO gère un catalogue collectif d'environ 215 bibliothèques au service des 50000 étudiants des 4 Hautes écoles universitaires romandes (universités de Genève, Fribourg, Lausanne et Neuchâtel), de la Haute école spécialisée HES-SO et des Hautes écoles pédagogiques de Vaud et Valais, et de quelque 250000 lecteurs inscrits. Plus important réseau de Suisse par le volume des collections signalées et le nombre de bibliothèques membres, RERO repose sur une volonté commune de ses partenaires de développement d'une politique documentaire basée sur la collaboration, la mise en commun de ressources et services, le partage de compétences, de moyens financiers et techniques. Le catalogue collectif, basé sur le partage du travail de catalogage, la bibliothèque numérique RERO DOC, le méta-catalogue et l'utilisation d'un même logiciel de gestion informatisée de bibliothèques, sont des résultats de ce projet collectif de coopération.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.rero.ch</uri></binding>
+   <binding name="logo"><uri>http://www.rero.ch/images/ciel.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.468t8h</uri></binding>
+   <binding name="titrecollection"><literal>Real Academia de la Historia</literal></binding>
+   <binding name="description"><literal>La Real Academia de la Historia, fondée en 1738, possède une bibliothèque et des archives avec des manuscrits, des incunables et imprimés de valeur scientifique, littéraire et documentaire inestimable allant du Moyen Age à nos jours. Ces données sont centrale dans l'étude de l'histoire de l'Espagne et Amérique hispanique.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.rah.es</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.wnt2uz</uri></binding>
+   <binding name="titrecollection"><literal>Revues.org</literal></binding>
+   <binding name="description"><literal>Né en 1999, Revues.org est le plus ancien portail français de revues en ligne en sciences humaines et sociales. Il est développé par le Centre pour l'édition électronique ouverte (Cléo), un laboratoire associant le CNRS, l'EHESS, l'Université de Provence et l'Université d'Avignon. Depuis 2011, Revues.org fait partie du portail de ressources électronique OpenEdition.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.revues.org</uri></binding>
+   <binding name="logo"><uri>http://www.revues.org/images/revues-org.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.s5qxv5</uri></binding>
+   <binding name="titrecollection"><literal>Réseau documentaire universitaire de Bordeaux</literal></binding>
+   <binding name="description"><literal>Collections numériques du réseau documentaire des universités de Bordeaux.</literal></binding>
+   <binding name="adresseweb"><uri>http://bibliotheques.u-bordeaux.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.mum5jl</uri></binding>
+   <binding name="titrecollection"><literal>SOAS Research Online</literal></binding>
+   <binding name="description"><literal>University repository providing access to the publication output of the institution. The institution specialises in the areas of art, humanities, social science, languages, law and cultures and the contents of the repository reflect this slant. Users may set up Atom and RSS feeds to be alerted to new content.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.soas.ac.uk</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.7oraz1</uri></binding>
+   <binding name="titrecollection"><literal>SciELO : Scientific Electronic Library Online</literal></binding>
+   <binding name="description"><literal>The 15 year path taken by the SciELO Program in bringing about the improvement of the academic journals which it indexes and publishes in Open Access - a path which it continues to follow to this day – is examined from various perspectives such as the rationale and objectives of the program, its origin in Brazil and expansion to 15 other countries, the results it has achieved, its quality control and production system, the technological platform and the impact that has been made by the Program.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.scielo.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.g4y8eg</uri></binding>
+   <binding name="titrecollection"><literal>Sciences Po</literal></binding>
+   <binding name="description"><literal>SPIRE est le dépôt institutionnel de la production scientifique de Sciences Po dont l’objectif est de référencer la totalité des publications de notre communauté académique. S’inscrivant dans le mouvement de l’Open Access, Spire met à la disposition de tous, sur Internet et gratuitement, le texte intégral des publications, dans le respect des dispositions relatives au droit d’auteur, contribuant ainsi à une meilleure diffusion et à la valorisation de la production scientifique de Sciences Po.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.sciencespo.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.o5ieb8</uri></binding>
+   <binding name="titrecollection"><literal>Theses.fr</literal></binding>
+   <binding name="description"><literal>L'ABES met en œuvre depuis 2011 un portail des thèses : ce guichet unique fédère l'accès aux thèses françaises validées et proposera un bouquet d'informations et de services depuis le choix du sujet de thèse jusqu'à la valorisation des travaux.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.theses.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.sbt3ra</uri></binding>
+   <binding name="titrecollection"><literal>Tolosana : le réseau des bibliothèques universitaires toulousaines</literal></binding>
+   <binding name="description"><literal>e SICD de Toulouse a mis en place depuis 2003 une politique de numérisation de document anciens issus des bibliothèques universitaires toulousaines, ainsi que de la bibliothèque municipale et de la bibliothèque de l’institut catholique de Toulouse. Des collections thématiques sont ainsi constituées, en lien avec les recherches universitaires toulousaines et les ressources des fonds anciens locaux. Au 21 mars 2013, 1954 volumes sont accessibles en ligne soit 442 807 pages.</literal></binding>
+   <binding name="adresseweb"><uri>http://tolosana.univ-toulouse.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.3royzo</uri></binding>
+   <binding name="titrecollection"><literal>Universitat de València</literal></binding>
+   <binding name="description"><literal>Repositorio institucional de la Universitat de Valencia (España).</literal></binding>
+   <binding name="adresseweb"><uri>http://www.uv.es</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.xp0sev</uri></binding>
+   <binding name="titrecollection"><literal>Université Ouverte des Humanités</literal></binding>
+   <binding name="description"><literal>L'Université Ouverte des Humanités (ou UOH) est un regroupement d'établissements supérieurs qui met gratuitement à disposition des étudiants et des enseignants, des ressources à titre de compléments et/ou de supports aux cours.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.uoh.fr</uri></binding>
+   <binding name="logo"><uri>http://www.uoh.fr/front/res/images/logo_uoh.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.4oost7</uri></binding>
+   <binding name="titrecollection"><literal>Université catholique de Louvain</literal></binding>
+   <binding name="description"><literal>Collections numériques et dépôt institutionnel de l'Université catholique de Louvain.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.uclouvain.be</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.yzn34t</uri></binding>
+   <binding name="titrecollection"><literal>Web sémantique et SHS</literal></binding>
+   <binding name="description"><literal>Cette collection expérimentale regroupe un ensemble de sources de démonstration utilisant les principes du web de données et du linked data appliqués aux corpus numériques en sciences humaines et sociales. Elle est proposée et gérée par la très grande infrastructure de recherche Huma-Num.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.huma-num.fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.doxv3u</uri></binding>
+   <binding name="titrecollection"><literal>e-codices : bibliothèque virtuelle des manuscrits en Suisse</literal></binding>
+   <binding name="description"><literal>Le but du projet e-codices est de mettre à disposition, dans une bibliothèque virtuelle, tous les manuscrits suisses du Moyen Âge et une sélection de manuscrits de l'Époque moderne. Les manuscrits sont numérisés dans leur intégralité et accompagnés de descriptions scientifiques. Ceci permet d’avoir un instrument de travail orienté vers la recherche qui s'adresse aussi à toute personne intéressée.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.e-codices.unifr.ch/fr</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.vnwm04</uri></binding>
+   <binding name="titrecollection"><literal>e-corpus, Centre de Conservation du Livre</literal></binding>
+   <binding name="description"><literal>Association, installée en Arles, le Centre de Conservation du Livre (CCL) mène depuis 1987, en France et à l'étranger, des actions de formation, d'expertise et de coopération interprofessionnelle dans les domaines de la conservation et de la gestion du patrimoine documentaire. La stratégie et le développement du centre sont évalués et orientés par un comité scientifique composé d'experts internationaux.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.e-corpus.org</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+  <result>
+   <binding name="uricollection"><uri>http://www.rechercheisidore.fr/resource/10670/3.a3bbnf</uri></binding>
+   <binding name="titrecollection"><literal>e-rara : portail des imprimés anciens des bibliothèques Suisse</literal></binding>
+   <binding name="description"><literal>Le portail e-rara.ch offre un accès gratuit aux images numériques en couleur d'imprimés anciens conservés dans des bibliothèques suisses. Les impressions suisses du XVIe siècle en forment le principal pôle d'excellence. D'autres collections thématiques d'imprimés du XVIe au XIXe siècle – livres ou cartes – enrichissent cette offre.</literal></binding>
+   <binding name="adresseweb"><uri>http://www.e-rara.ch</uri></binding>
+   <binding name="logo"><uri>http://www.rechercheisidore.fr/datasets</uri></binding>
+  </result>
+ </results>
+</sparql>

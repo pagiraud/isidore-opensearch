@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/"  xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Real Academia devia ISIDORE</os:ShortName>
+<os:Description>Real Academia de la Historia</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image height="16" width="16" type="image/x-icon">http://www.rechercheisidore.fr/favicon.ico</os:Image>
+<os:Url type="text/html" method="GET" template="http://www.rechercheisidore.fr/search?q={searchTerms}&amp;collection=10670/3.468t8h"></os:Url>
+<os:Url type="application/x-suggestions+json" method="GET" template="http://www.rechercheisidore.fr/suggest/?q={searchTerms}"></os:Url>
+<SearchForm>http://www.rechercheisidore.fr/search?collection=10670/3.468t8h</SearchForm>
+<os:Url type="application/opensearchdescription+xml"
+     rel="self"
+     template="http://www.insolit.org/isidore-opensearch/106703468t8h.xml" />
+</SearchPlugin>

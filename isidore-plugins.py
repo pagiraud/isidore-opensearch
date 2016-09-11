@@ -71,7 +71,7 @@ import xml.etree.ElementTree as ET
 tree = ET.parse('collections.xml')
 root = tree.getroot()
 header = codecs.open('header.html', 'r', 'utf-8').read()
-html = codecs.open('index.html','w+', 'utf-8')
+html = codecs.open('docs/index.html','w+', 'utf-8')
 print>>html,header
 index = []
 for resultat in root[1]:
@@ -83,8 +83,8 @@ for resultat in root[1]:
 	else:
 		description = description.replace('&','&amp;')
 #Code temporaire, tant que le bug de Virtuoso n'est pas résolu sur Isidore.
-	titre = titre.encode('latin-1').decode('utf_8')
-	description = description.encode('latin-1').decode('utf_8')
+#	titre = titre.encode('latin-1').decode('utf_8')
+#	description = description.encode('latin-1').decode('utf_8')
 #Fin du code temporaire
 	adresse = resultat[3][0].text
 	logo = resultat[4][0].text
@@ -105,7 +105,7 @@ for resultat in root[1]:
      rel="self"
      template="http://www.insolit.org/isidore-opensearch/""" + os_filename + """" />
 </SearchPlugin>"""
-	fich = codecs.open(os_filename,'w+', 'utf-8')
+	fich = codecs.open('docs/' + os_filename,'w+', 'utf-8')
 	print>>fich,os
 	fich.close()
 	initiale = titre[0].encode('utf-8')
