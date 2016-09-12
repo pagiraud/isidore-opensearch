@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
 #
-#    Copyright 2013 Pierre-Amiel Giraud
+#    Copyright 2013-2016 Pierre-Amiel Giraud
 #    
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -22,6 +22,7 @@ import codecs
 from filecmp import cmp
 from sys import exit
 from os import rename
+from shutil import copyfile
 import logging
 logging.basicConfig(filename='isidore-opensearch.log',level=logging.DEBUG,format='%(asctime)s %(message)s')
 sparql = SPARQLWrapper("http://www.rechercheisidore.fr/sparql")
@@ -70,7 +71,7 @@ xml.close()
 import xml.etree.ElementTree as ET
 tree = ET.parse('collections.xml')
 root = tree.getroot()
-header = codecs.open('header.html', 'r', 'utf-8').read()
+header = codecs.open('theme/header.html', 'r', 'utf-8').read()
 html = codecs.open('docs/index.html','w+', 'utf-8')
 print>>html,header
 index = []
@@ -127,7 +128,10 @@ for i in index:
 	lettre = "<li><a href=\"#" + i + "\">" + i + "</a></li>"
 	print>>html,lettre
 print>>html,"</ul></div>\n"
-footer = codecs.open('footer.html', 'r', 'utf-8').read()
+footer = codecs.open('theme/footer.html', 'r', 'utf-8').read()
 print>>html,footer
 html.close()
+copyfile('theme/style.css','docs/style.css')
+copyfile('theme/bullet.png','docs/bullet.png')
+copyfile('theme/bullet2.png','docs/bullet2.png')
 logging.info('Génération réussie des plugins et de la page HTML.')
