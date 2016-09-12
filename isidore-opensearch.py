@@ -24,7 +24,7 @@ from sys import exit
 from os import rename
 from shutil import copyfile
 import logging
-logging.basicConfig(filename='isidore-opensearch.log',level=logging.DEBUG,format='%(asctime)s %(message)s')
+logging.basicConfig(filename='log/isidore-opensearch.log',level=logging.DEBUG,format='%(asctime)s %(message)s')
 sparql = SPARQLWrapper("http://www.rechercheisidore.fr/sparql")
 #Étape 1 : faut-il faire une mise-à-jour? Après avoir vérifié si le script a déjà été
 #lancé, on regarde si la liste des collections a changé depuis la dernière vérification.
@@ -34,17 +34,17 @@ def liste_collec(maj = True):
 		maj = "_maj"
 	else:
 		maj = ""
-	return urlretrieve("http://www.rechercheisidore.fr/sparql?default-graph-uri=&query=SELECT+%3Fs%0D%0AWHERE+{+%3Fs+rdf%3Atype+%3Chttp%3A%2F%2Fwww.rechercheisidore.fr%2Fclass%2FCollection%3E+}&format=application%2Frdf%2Bxml&timeout=5000&debug=off", "liste_collec" + maj + ".xml")
+	return urlretrieve("http://www.rechercheisidore.fr/sparql?default-graph-uri=&query=SELECT+%3Fs%0D%0AWHERE+{+%3Fs+rdf%3Atype+%3Chttp%3A%2F%2Fwww.rechercheisidore.fr%2Fclass%2FCollection%3E+}&format=application%2Frdf%2Bxml&timeout=5000&debug=off", "log/liste_collec" + maj + ".xml")
 try:
-	with open('liste_collec.xml') as file:
+	with open('log/liste_collec.xml') as file:
 		logging.info('Lancement du script. La liste des collections existe bien.')
 		liste_collec()
-		if cmp('liste_collec.xml', 'liste_collec_maj.xml'):
+		if cmp('log/liste_collec.xml', 'log/liste_collec_maj.xml'):
 			logging.info('Isidore moissonne toujours les mêmes collections. Arrêt du script.')
 			exit()
 		else:
 			logging.info('Isidore ne moissonne plus les mêmes collections. Mise à jour nécessaire.')
-			rename('liste_collec_maj.xml', 'liste_collec.xml')
+			rename('log/liste_collec_maj.xml', 'log/liste_collec.xml')
 except IOError as e:
 	liste_collec(maj = False)
 	logging.info('Premier lancement du script. Création de la liste des collections et du fichier de logs.')
@@ -64,12 +64,12 @@ sparql.setQuery("""
 	ORDER BY ASC(?titrecollection)
 	LIMIT 300""")
 collections = sparql.query().convert().toxml()
-xml = codecs.open('collections.xml','w+', 'utf-8')
+xml = codecs.open('log/collections.xml','w+', 'utf-8')
 print>>xml,collections
 xml.close()
 #Étape 2b : génération des fichiers opensearch et de la page HTML
 import xml.etree.ElementTree as ET
-tree = ET.parse('collections.xml')
+tree = ET.parse('log/collections.xml')
 root = tree.getroot()
 header = codecs.open('theme/header.html', 'r', 'utf-8').read()
 html = codecs.open('docs/index.html','w+', 'utf-8')
